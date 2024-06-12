@@ -7,27 +7,30 @@ import {
   SiVercel,
   SiMacos,
 } from "react-icons/si";
+import { MdSportsMartialArts } from "react-icons/md";
+import { IoIosBicycle } from "react-icons/io";
+import { FaBookOpen } from "react-icons/fa";
 
-function Toolstack() {
+function Sparetime() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <MdSportsMartialArts />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <IoIosBicycle />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <FaBookOpen />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <SiSlack />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
-      </Col>
+      </Col> */}
     </Row>
   );
 }
 
-export default Toolstack;
+export default Sparetime;

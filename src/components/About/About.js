@@ -41,7 +41,7 @@ function About() {
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Sparetime</strong>
+          <strong className="purple">Sparetime</strong> Activities
         </h1>
         <Sparetime />
 

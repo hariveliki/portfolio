@@ -4,6 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import log from "../../Assets/Projects/log.png";
 import time_series from "../../Assets/Projects/time_series.png";
+import smart_classroom from "../../Assets/Projects/smart_classroom.png";
+import hf from "../../Assets/Projects/hf.png";
 import dtp from "../../Assets/Projects/dtp.png";
 import onboarder from "../../Assets/Projects/onboarder.png";
 import real_estate from "../../Assets/Projects/real_estate.png";
@@ -93,6 +95,31 @@ function Projects() {
               title="Real Estate Calculator"
               description="Based on thousands of real estate data, we built a machine learning model that predicts the price based on some attributes, e.g. location, type, m2, etc."
               ghLink="https://github.com/Immobilienrechner-Challenge"
+              // demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={smart_classroom}
+              isBlog={false}
+              title="Data Science and Internet of Things"
+              description="During the pandemic, we analyzed rooms for their air quality, when to ventilate, and how to save
+              energy at the same time."
+              // ghLink=""
+              demoLink="https://smart270816584.wordpress.com/2022/05/01/data-science-iot/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={hf}
+              isBlog={false}
+              title="Management Concept"
+              description="My diploma thesis was about a management concept for the decision to take a product line out of
+              the assortment. I answered the question when a product should be taken off the market, how the
+              management decides this and how the process should look like."
+              // ghLink=""
               // demoLink=""
             />
           </Col>

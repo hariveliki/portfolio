@@ -22,19 +22,21 @@ function Home2() {
               I have several interests among them are{" "}
               <b className="purple">Software Development</b>,{" "}
               <b className="purple">Data Science</b>,{" "}
-              <b className="purple">Machine Learning</b> and{" "}
-              <b className="purple">AI</b>.
+              <b className="purple">Math</b> and{" "}
+              <b className="purple">Technology</b> in general.
               <br />
-              <br />I am fluent in
+              <br />
+              As far as my programming skills go, I am fluent in
               <i>
                 <b className="purple"> Python</b> and competent in{" "}
                 <b className="purple">R.</b>
               </i>
               <br />
-              These days also learning Web Development with{" "}
+              <br />
+              Nowadays I'm also learning Web Development with{" "}
               <b className="purple">JavaScript</b> and{" "}
-              <b className="purple">React.js</b>, because everybody wants a
-              website.
+              <b className="purple">React.js</b>, because everyone wants to have
+              a website.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

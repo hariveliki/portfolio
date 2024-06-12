@@ -10,6 +10,7 @@ import {
 import { MdSportsMartialArts } from "react-icons/md";
 import { IoIosBicycle } from "react-icons/io";
 import { FaBookOpen } from "react-icons/fa";
+import { GiMeditation, GiHiking } from "react-icons/gi";
 
 function Sparetime() {
   return (
@@ -23,12 +24,12 @@ function Sparetime() {
       <Col xs={4} md={2} className="tech-icons">
         <FaBookOpen />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+      <Col xs={4} md={2} className="tech-icons">
+        <GiMeditation />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
-      </Col> */}
+        <GiHiking />
+      </Col>
     </Row>
   );
 }

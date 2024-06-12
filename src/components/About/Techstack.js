@@ -9,12 +9,13 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiRedis,
   SiPostgresql,
   SiR,
   SiPytorch,
   SiTensorflow,
   SiKubernetes,
+  SiDjango,
+  SiApachekafka,
 } from "react-icons/si";
 import { FaDocker } from "react-icons/fa";
 
@@ -43,7 +44,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
+        <SiDjango />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
@@ -53,6 +54,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiKubernetes />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApachekafka />
       </Col>
     </Row>
   );

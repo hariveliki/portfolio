@@ -33,8 +33,8 @@ function Home2() {
               <br />
               These days also learning Web Development with{" "}
               <b className="purple">JavaScript</b> and{" "}
-              <b className="purple">React.js</b>, because everybody wants a website.
-
+              <b className="purple">React.js</b>, because everybody wants a
+              website.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -62,7 +62,7 @@ function Home2() {
               </li>
               {/* <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -82,7 +82,7 @@ function Home2() {
               </li>
               {/* <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

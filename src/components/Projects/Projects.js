@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Onboarder"
               description="I co-developed a complex orchestration system that enhances every PIM (Product Information Management System). It takes data from various sources as input, e.g. suppliers, internet, marketplace, etc., and enriches product data with the help of machine learning or customised mappings. The result is high data quality, a high degree of automation and a faster time-to-market cycle for retailers."
-              // ghLink="https://github.com/hariveliki/Chatify"
-              // demoLink="https://chatify-49.web.app/"
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Data Centralisation Project"
               description="I worked as a sub-project manager on the implementation of a new PIM (Product Information Management) system. It allows collecting, managing and enriching product information in a single place and distributing it to sales, eCommerce, marketplace, etc. channels."
-              // ghLink="https://github.com/hariveliki/Bits-0f-C0de"
-              // demoLink="https://blogs.soumya-jit.tech/"
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Digital Transformation Project"
               description="I worked on a reengineering project for the purchasing department, where I was responsible for analyzing, capturing, and documenting requirements. I also organized and moderated stakeholder presentations using the SCRUM methodology. This role has improved my skills in business analysis and project management."
-              // ghLink="https://github.com/hariveliki/Editor.io"
-              // demoLink="https://editor.soumya-jit.tech/"
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Logistics Projects and Leadership"
               description="During my time in logistics, I worked as a sub-project manager where we had to set up a new returns department for our growing online store. There I also had the opportunity to lead a team for the first time."
-              // ghLink="https://github.com/hariveliki/Plant_AI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
         </Row>
@@ -82,7 +82,7 @@ function Projects() {
               title="Appliance Detection"
               description="I have developed a new type of time series classification model for a grid operator that is based on state-of-the-art approaches. The aim of the classifier is to recognise devices in household based on electricity consumption data. The results helped the company to plan its future grid supply and reduce costs."
               ghLink="https://github.com/hariveliki/appliance-detection.git"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              // demoLink=""
             />
           </Col>
 
@@ -93,7 +93,7 @@ function Projects() {
               title="Real Estate Calculator"
               description="Based on thousands of real estate data, we built a machine learning model that predicts the price based on some attributes, e.g. location, type, m2, etc."
               ghLink="https://github.com/Immobilienrechner-Challenge"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              // demoLink=""
             />
           </Col>
         </Row>
